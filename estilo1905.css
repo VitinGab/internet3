@@ -1,0 +1,21 @@
+Cabecalho{
+    width: 600px;
+    padding: 10px;
+    background-color: gray;
+    font-size: 24px;
+    margin: 2px;
+}
+corpo{
+    width: 600px;
+    padding: 10px;
+    background-color: red;
+    font-size: 20px;
+    text-align: center;
+}
+Rodape{
+    width: 600px;
+    padding: 10px;
+    background-color: Blue;
+    font-size: 10px;
+    text-align: center;
+}
