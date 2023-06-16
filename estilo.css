@@ -1,19 +1,32 @@
-body{background-Color:#00FF00;
+html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
-h1{
-    color:red;
-    font-size:larger;
-    font-family: 'Courier New', Courier, monospace;}
 
-h2{background-color: white;
-    color:blue;
-    font-family:arial, verdana;
-    font-style:italic;
-    font-size:small;}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
 
-h3{
-    color:greenyellow;
-    background-color:blue ;
-    font-size:xx-large;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: oblique;}
+.cabecalho{
+background-color: brown;
+width: auto;
+height: 200px;
+}
+
+.conteudo{
+background-color: blanchedalmond;
+width: auto;
+height: 800px;
+}
+
+.rodape{
+background-color: aqua;
+width: auto;
+height: 100px;
+margin: 0;
+    padding: 0;
+   
+}
